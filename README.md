@@ -94,35 +94,29 @@ Shahjalal University of Science and Technology, Bangladesh <br> <br>
 - **Name**: Rayhanul Amin Tanvir<br>
   **NASA Space App Username**: rayhanul_amin<br>
   **Email**: rayhanulamint2@gmail.com<br>
-  <!-- **Phone**: +8801866843730<br> -->
-  Dept. of CSE, SUST <br>
+  <!-- **Phone**: +8801866843730<br> -->Dept. of CSE, SUST <br>
 
 - **Name**: Nasiat Hasan Fahim<br>
   **NASA Space App Username**: nasiat<br>
   **Email**: nhfahim18@gmail.com<br>
-  <!-- **Phone**: +8801643281865<br> -->
-  Dept. of CSE, SUST <br>
+  <!-- **Phone**: +8801643281865<br> -->Dept. of CSE, SUST <br>
 
 - **Name**: Sumaiya Ali Shafa<br>
   **NASA Space App Username**: shafa22<br>
   **Email**: sumaiyashafa.15@gmail.com<br>
-  <!-- **Phone**: +8801537469153<br> -->
-  Dept. of CSE, SUST <br>
+  <!-- **Phone**: +8801537469153<br> -->Dept. of CSE, SUST <br>
 
 - **Name**: Khalid Bin Selim<br>
   **NASA Space App Username**: khalid_44<br>
   **Email**: khalidbinselim@gmail.com<br>
-  <!-- **Phone**: +8801721998383<br> -->
-  Dept. of CSE, SUST <br>
+  <!-- **Phone**: +8801721998383<br> -->Dept. of CSE, SUST <br>
 
 - **Name**: Gazi Mujtaba Rafid<br>
   **NASA Space App Username**: rafid51<br>
   **Email**: gazi51@student.sust.edu<br>
-  <!-- **Phone**: +8801521791608<br> -->
-  Dept. of CSE, SUST <br>
+  <!-- **Phone**: +8801521791608<br> -->Dept. of CSE, SUST <br>
 
 - **Name**: Md. Abid Ullah Muhib<br>
   **NASA Space App Username**: mdabidullahmuhib<br>
   **Email**: uusshas12@gmail.com<br>
-  <!-- **Phone**: +8801733402023<br> -->
-  Dept. of CSE, SUST <br>
+  <!-- **Phone**: +8801733402023<br> -->Dept. of CSE, SUST <br>
